@@ -1,0 +1,16 @@
+{
+  "name": "runtime-stopwatch",
+  "version": "0.0.1",
+  "description": "A simple module to check current function runtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "runtime",
+    "stopwatch",
+    "timer"
+  ],
+  "author": "Spencer Holman",
+  "license": "Apache-2.0"
+}
